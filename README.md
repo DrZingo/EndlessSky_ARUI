@@ -6,6 +6,8 @@ This is a changed user interface when in space.
 
 * Destination is now to the right under world / date / money.
 
+![screenshot](screenshot.png)
+
 ## Installation
 
 Clone into ~/.local/share/endless-sky/plugins/
