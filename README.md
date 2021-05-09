@@ -10,6 +10,6 @@ This is a changed user interface when in space.
 
 ## Installation
 
-Clone into ~/.local/share/endless-sky/plugins/
+Unpack or git clone repo into:
 
-
+~/.local/share/endless-sky/plugins/
